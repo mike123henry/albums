@@ -19,11 +19,11 @@ const styles = {
     alignItems: 'center',
     height: 60,
     paddingTop: 15,
-    shadowColor: '#0000FF',
+    /*shadowColor: '#0000FF',
     shadowOffset: { width: 10, height: 20 },
     shadowOpacity: 0.2,
     elevation: 2,
-    position: 'relative'
+    position: 'relative'*/
   },
   textStyle: {
     fontSize: 20
